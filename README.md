@@ -2,7 +2,7 @@
 This project generates LTL formulas with specific distributions using a Transformer-based two-stage generation method.
 
 # Installation
-nuXmv: Download and install the nuXmv in the folder(./IJCAI24) from https://nuxmv.fbk.eu/theme/download.php?file=nuXmv-2.0.0-linux64.tar.gz
+nuXmv: Download and install the nuXmv from https://nuxmv.fbk.eu/theme/download.php?file=nuXmv-2.0.0-linux64.tar.gz
 
 # Environment
 Please use the command to get an experimental environment as follows:

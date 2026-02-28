@@ -1,0 +1,18 @@
+name: ltlGen
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.18
+  - spot=2.11.6
+  - pip:
+    - pandas==2.0.3
+    - torch==2.1.0+cu121
+    - torch-cluster==1.6.3+pt21cu121
+    - torch-geometric==2.4.0
+    - torch-scatter==2.1.2+pt21cu121
+    - torch-sparse==0.6.18+pt21cu121
+    - torch-spline-conv==1.2.2+pt21cu121
+    - torchaudio==2.1.0+cu121
+    - torchvision==0.16.0+cu121
+    - tqdm==4.66.1
